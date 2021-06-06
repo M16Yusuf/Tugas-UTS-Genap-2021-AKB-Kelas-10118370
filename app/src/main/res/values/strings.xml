@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Daily Note 10118370</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="ucup">"@M16Yusuf"</string>
+    <string name="txtProp1">Nama  : Muhammad Yusuf</string>
+    <string name="txtProp2">NIM   : 10118370</string>
+    <string name="txtProp3">Kelas : IF-9</string>
+    <string name="txtProp5">yusuf.10118370@mahasiswa.unikom.ac.id</string>
+    <string name="txtProp4">Hobi  : tidur, main game</string>
+    <string name="beranda">beranda</string>
+    <string name="kategori">Kategori</string>
+    <string name="profil">Profil</string>
+    <string name="logo_aplikasi">Logo aplikasi</string>
+    <string name="judulAbout">Ini Judul hehe</string>
+    <string name="badanAbout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+        ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+        sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+</resources>

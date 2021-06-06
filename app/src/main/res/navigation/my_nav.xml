@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/FIrstFragment">
+
+    <fragment
+        android:id="@+id/FIrstFragment"
+        android:name="com.m16yusuf.dailynote10118370.view.FirstFragment"
+        android:label="Beranda"
+        tools:layout="@layout/fragment_first" />
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.m16yusuf.dailynote10118370.view.SecondFragment"
+        android:label="Kategori"
+        tools:layout="@layout/fragment_second" />
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="com.m16yusuf.dailynote10118370.view.ThirdFragment"
+        android:label="Profil"
+        tools:layout="@layout/fragment_third" />
+    <fragment
+        android:id="@+id/fourthFragment"
+        android:name="com.m16yusuf.dailynote10118370.view.FourthFragment"
+        android:label="Tentang"
+        tools:layout="@layout/fragment_fourth" />
+</navigation>
