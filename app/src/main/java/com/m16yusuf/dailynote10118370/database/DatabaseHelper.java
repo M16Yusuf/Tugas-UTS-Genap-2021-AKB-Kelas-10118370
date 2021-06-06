@@ -1,4 +1,8 @@
 package com.m16yusuf.dailynote10118370.database;
+//Sabtu 6 juni 2021
+//Muhammad Yusuf
+//10118370
+//IF-9
 
 import android.content.ContentValues;
 import android.content.Context;

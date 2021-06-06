@@ -1,5 +1,8 @@
 package com.m16yusuf.dailynote10118370.database.model;
-
+//Sabtu 6 juni 2021
+//Muhammad Yusuf
+//10118370
+//IF-9
 public class Note {
     public static final String TABLE_NAME = "notes";
 

@@ -3,7 +3,6 @@ package com.m16yusuf.dailynote10118370.view;
 //Muhammad Yusuf
 //10118370
 //IF-9
-
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.text.TextUtils;
